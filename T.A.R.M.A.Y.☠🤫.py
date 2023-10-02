@@ -322,24 +322,24 @@ def menu(my_name,my_id):
 	#cetak(panel(f'[bold white][[bold green]•[/][bold white]][/] [bold white]Username : [bold green]{my_name}[/]\n[bold white][[bold green]•[/][bold white]][/] [bold white]User Idz : [bold green]{my_id}[/]\n[bold white][[bold green]•[/][bold white]][/] [bold white]User Ip  : [bold green]{ip}[/][/] ',width=90,title=f"[bold green]Infomasi",style=f"bold white"))
 	cetak(panel(f'[bold blue][[bold green]1[/][bold green]][/] [bold green]Id Public [[bold green]2[/][bold blue]][/] [bold green]Id Public Multip  ',width=80,title=f"[bold green]Menu Cracking",style=f"bold blue"))
 	#cetak(panel(f'[bold white]Ketik [bold green]"Lainnya"[bold white] Untuk Melihat Menu Tambahan | Ketik [bold green]"Bot"[bold white] Untuk Ke Menu Tambahan',width=90,title=f"[bold green]Informasi Crack",style=f"bold white"))
-	_____TaRmAy🤫___ = input(f'\033[1;36m└[CHOOSE] : ')
-	if _____TaRmAy🤫___ in ['1','01']:
+	_____TaRmAy_____ = input(f'\033[1;36m└[CHOOSE] : ')
+	if _____TaRmAy_____ in ['1','01']:
 		TaRmAy☠_dump()
-	elif _____TaRmAy🤫___ in ['2','02']:
+	elif _____TaRmAy_____ in ['2','02']:
 		dump_massal()
-	elif _____TaRmAy🤫___ in ['3','03']:
+	elif _____TaRmAy_____ in ['3','03']:
 		result()
-	elif _____TaRmAy🤫___ in ['4','04']:
+	elif _____TaRmAy_____ in ['4','04']:
 		dumpp()
-	elif _____TaRmAy🤫___ in ['5','05']:
+	elif _____TaRmAy_____ in ['5','05']:
 		crack_file()
-	elif _____TaRmAy🤫___ in ['6','06']:
+	elif _____TaRmAy_____ in ['6','06']:
 		eak()
-	elif _____TaRmAy🤫___ in ['lainnya','Lainnya','LAINNYA']:
+	elif _____TaRmAy_____ in ['lainnya','Lainnya','LAINNYA']:
 		lainnya()
-	elif _____TaRmAy🤫___ in ['Bot','BOT','bot']:
+	elif _____TaRmAy_____ in ['Bot','BOT','bot']:
 		bot()
-	elif _____TaRmAy🤫___ in ['0','00']:
+	elif _____TaRmAy_____ in ['0','00']:
 		os.system('rm -rf .token.txt')
 		os.system('rm -rf .cookie.txt')
 		print(f' ╰─  {m}Sukses Logout+Hapus Cookies{x}')
